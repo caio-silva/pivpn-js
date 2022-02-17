@@ -1,0 +1,23 @@
+{
+  "name": "pivpn-js",
+  "version": "0.0.9",
+  "description": "A javascript pivpn wrapper.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caio-silva/pivpn-js.git"
+  },
+  "keywords": [
+    "pivpn",
+    "pivpnjs",
+    "pivpn-js",
+    "pivpn-javascript"
+  ],
+  "author": "Caio Guimaraes da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caio-silva/pivpn-js/issues"
+  },
+  "homepage": "https://github.com/caio-silva/pivpn-js#readme"
+}
